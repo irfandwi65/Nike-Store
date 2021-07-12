@@ -1,7 +1,7 @@
 # Nike Store
 
 This is my first project using Android Studio and im very interested to challenge my self to make this project.
-and for my inspiration design you can see it on this link: https://www.behance.net/gallery/103803861/Nike-Mobile-App-Design-UI?tracking_source=search_projects_recommended%7Cnba
+For my inspiration design you can see it on this link: https://www.behance.net/gallery/103803861/Nike-Mobile-App-Design-UI?tracking_source=search_projects_recommended%7Cnba
 
 ## Getting Started
 
